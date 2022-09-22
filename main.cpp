@@ -1,3 +1,7 @@
+//Git Demo
+//Bruce Yang
+//9-22-2022
+
 #include <iostream>
 #include <iomanip>
 #include <cmath>
